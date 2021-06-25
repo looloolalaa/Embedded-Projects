@@ -1,0 +1,1 @@
+cmd_/home/loo/Class/Lab12/dht11/test.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/loo/Class/Lab12/dht11/test.ko /home/loo/Class/Lab12/dht11/test.o /home/loo/Class/Lab12/dht11/test.mod.o ;  true

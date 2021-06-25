@@ -1,0 +1,1 @@
+cmd_/home/loo/Class/Lab10/simple_rculist/simple_rculist.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/loo/Class/Lab10/simple_rculist/simple_rculist.ko /home/loo/Class/Lab10/simple_rculist/simple_rculist.o /home/loo/Class/Lab10/simple_rculist/simple_rculist.mod.o ;  true

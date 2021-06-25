@@ -1,0 +1,1 @@
+cmd_/home/loo/Class/Switch/simple_switch.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/loo/Class/Switch/simple_switch.ko /home/loo/Class/Switch/simple_switch.o /home/loo/Class/Switch/simple_switch.mod.o ;  true

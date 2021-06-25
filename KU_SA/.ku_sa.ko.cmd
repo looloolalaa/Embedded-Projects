@@ -1,0 +1,1 @@
+cmd_/home/loo/Class/KU_SA/ku_sa.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/loo/Class/KU_SA/ku_sa.ko /home/loo/Class/KU_SA/ku_sa.o /home/loo/Class/KU_SA/ku_sa.mod.o ;  true

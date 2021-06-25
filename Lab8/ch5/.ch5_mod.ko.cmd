@@ -1,0 +1,1 @@
+cmd_/home/loo/Class/Lab8/ch5/ch5_mod.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/loo/Class/Lab8/ch5/ch5_mod.ko /home/loo/Class/Lab8/ch5/ch5_mod.o /home/loo/Class/Lab8/ch5/ch5_mod.mod.o ;  true

@@ -1,0 +1,7 @@
+#define KU_IPC_MAXMSG 4
+#define KU_IPC_MAXVOL 17*KU_IPC_MAXMSG
+#define KU_IPC_CREAT 4444
+#define KU_IPC_EXCL 4445
+#define KU_IPC_NOWAIT 4
+#define KU_MSG_NOERROR 16
+
